@@ -1,0 +1,17 @@
+{
+  "overlapdataset/00000.png": "cellposedataset/test/001_img.png",
+  "overlapdataset/00001.png": "cellposedataset/train/025_img.png",
+  "overlapdataset/00002.png": "cellposedataset/train/041_img.png",
+  "overlapdataset/00003.png": "cellposedataset/train/002_img.png",
+  "overlapdataset/00004.png": "cellposedataset/train/016_img.png",
+  "overlapdataset/00005.png": "cellposedataset/train/005_img.png",
+  "overlapdataset/00006.png": "cellposedataset/train/020_img.png",
+  "overlapdataset/00007.png": "cellposedataset/train/017_img.png",
+  "overlapdataset/00008.png": "cellposedataset/train/012_img.png",
+  "overlapdataset/00009.png": "cellposedataset/train/035_img.png",
+  "overlapdataset/00010.png": "cellposedataset/train/019_img.png",
+  "overlapdataset/00011.png": "cellposedataset/train/023_img.png",
+  "overlapdataset/00012.png": "cellposedataset/train/032_img.png",
+  "overlapdataset/00013.png": "cellposedataset/train/001_img.png",
+  "overlapdataset/00014.png": "cellposedataset/train/000_img.png"
+}
