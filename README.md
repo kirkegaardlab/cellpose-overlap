@@ -2,7 +2,7 @@
 
 A small cell dataset with overlapped labels.
 
-used with https://github.com/kirkegaardlab/diffusionsplit
+Used with https://github.com/kirkegaardlab/diffusionsplit for the paper [Spontaneous breaking of symmetry in overlapping cell instance segmentation using diffusion models](https://academic.oup.com/biomethods/advance-article/doi/10.1093/biomethods/bpae084/7888887?login=true).
 
 ## Instructions
 Download this repository and place the original cellpose dataset (downloadable from https://www.cellpose.org/dataset) in the `cellposedataset` folder.
